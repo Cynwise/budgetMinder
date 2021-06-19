@@ -1,7 +1,6 @@
 # Budget Minder
 
-Demo link: (https://youtu.be/r-uYcCmxdNU)
-![ScreenShot](./assets/demoScreenshot.png)
+![ScreenShot](./assets/exmScreenshot.png)
 
 ## Description
 
