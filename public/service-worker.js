@@ -6,7 +6,8 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/index.js",
     "/db.js",
-    "/styles.css"
+    "/styles.css",
+    "/favicon.ico"
 ];
 
 self.addEventListener("install" , function (evt) {
