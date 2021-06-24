@@ -1,5 +1,5 @@
 let db;
-let dubgetVersion;
+let budgetVersion;
 const request = indexedDb.open('budget', budgetVersion || 12);
 
 request.onupgradeneeded = function(e) {
